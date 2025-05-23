@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan Tran</h1>
 <h3 align="center">A passionate backend developer from Vietnam !</h3>
 
-# 💫 About Me:
-- 🔭 I’m currently working on [ExpenseSharingAPI]<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanscriptor/) 
 
